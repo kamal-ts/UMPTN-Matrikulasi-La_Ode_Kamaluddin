@@ -1,0 +1,50 @@
+[{
+    "admin": [
+        {
+            "ket": "Tidak Tahu",
+            "nilai": 0
+        },
+        {
+            "ket": "Mungkin",
+            "nilai": 0.4
+        },
+        {
+            "ket": "Kemungkinan Besar",
+            "nilai": 0.6
+        },
+        {
+            "ket": "Hampir Pasti",
+            "nilai": 0.8
+        },
+        {
+            "ket": "Pasti",
+            "nilai": 1
+        }
+    ],
+    "user": [
+        {
+            "ket": "Tidak",
+            "nilai": 0
+        },
+        {
+            "ket": "Tidak Tahu",
+            "nilai": 0.2
+        },
+        {
+            "ket": "Sedikit Yakin",
+            "nilai": 0.4
+        },
+        {
+            "ket": "Cukup Yakin",
+            "nilai": 0.6
+        },
+        {
+            "ket": "Yakin",
+            "nilai": 0.8
+        },
+        {
+            "ket": "Sangat Yakin",
+            "nilai": 1
+        }
+    ]
+}]

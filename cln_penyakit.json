@@ -1,0 +1,164 @@
+[
+    {
+        "namaPenyakit": "hipertensi",
+        "deskripsi": "Hipertensi terjadi ketika tekanan sistolik berada di atas 130 mmHg dan tekanan diastolik lebih dari 80 mmHg. Tekanan darah yang melebihi angka tersebut merupakan kondisi berbahaya dan harus segera ditangani.",
+        "gejala": [
+            {
+                "gejala": "Sakit kepala",
+                "role": 0.8
+            },
+            {
+                "gejala": "Mimisan",
+                "role": 0.6
+            },
+            {
+                "gejala": "Masalah penglihatan",
+                "role": 0.6
+            },
+            {
+                "gejala": "Nyeri pada dada",
+                "role": 0.8
+            },
+            {
+                "gejala": "Telinga berdengung",
+                "role": 0.6
+            },
+            {
+                "gejala": "Sesak Napas",
+                "role": 1.0
+            },
+            {
+                "gejala": "Tremor otot",
+                "role": 0.6
+            },
+            {
+                "gejala": "Adanya darah dalam urine",
+                "role": 0.8
+            },
+            {
+                "gejala": "Mudah Kelelahan",
+                "role": 0.6
+            }
+        ]
+    },
+    {
+        "namaPenyakit": "diabetes",
+        "deskripsi": "Diabetes merupakan penyakit kronis yang ditandai dengan ciri-ciri berupa tingginya kadar gula (glukosa) darah.",
+        "gejala": [
+            {
+                "gejala": "Rasa haus yang berlebihan",
+                "role": 0.6
+            },
+            {
+                "gejala": "Sering buang air kecil, terutama di malam hari",
+                "role": 0.4
+            },
+            {
+                "gejala": "Sering merasa sangat lapar",
+                "role": 0.8
+            },
+            {
+                "gejala": "Turunnya berat badan tanpa sebab yang jelas",
+                "role": 0.8
+            },
+            {
+                "gejala": "kesemutan pada jari tangan dan kaki",
+                "role": 0.8
+            },
+            {
+                "gejala": "Lemas",
+                "role": 0.6
+            },
+            {
+                "gejala": "luka sulit untuk sembuh",
+                "role": 0.6
+            },
+            {
+                "gejala": "Memiliki keluarga dengan riwayat diabetes",
+                "role": 0.8
+            }
+        ]
+    },
+    {
+        "namaPenyakit": "asam urat",
+        "deskripsi": "Asam urat merupakan kondisi yang bisa menyebabkan gejala nyeri yang tak tertahankan, pembengkakan, serta adanya rasa panas di aerea persendian.",
+        "gejala": [
+            {
+                "gejala": "Nyeri sendi saat bangun tidur",
+                "role": 0.8
+            },
+            {
+                "gejala": "Baru saja mengalami cedera atau pembedahan",
+                "role": 0.6
+            },
+            {
+                "gejala": "Rasa panas pada sendi",
+                "role": 0.8
+            },
+            {
+                "gejala": "Jempol Kaki terasa nyeri",
+                "role": 0.6
+            },
+            {
+                "gejala": "Persendian susah digerakkan",
+                "role": 0.8
+            }
+        ]
+    },
+    {
+        "namaPenyakit": "asma",
+        "deskripsi": "Asma adalah jenis penyakit jangka panjang atau kronis pada saluran pernapasan yang ditandai dengan peradangan dan penyempitan saluran napas yang menimbulkan sesak atau sulit bernapas.",
+        "gejala": [
+            {
+                "gejala": "Sesak Napas",
+                "role": 0.8
+            },
+            {
+                "gejala": "batuk berdahak",
+                "role": 0.6
+            },
+            {
+                "gejala": "napas berbunyi (mengi)",
+                "role": 0.8
+            },
+            {
+                "gejala": "Ada riwayat alergi",
+                "role": 0.4
+            },
+            {
+                "gejala": "Ada riwayat asma dalam keluarga",
+                "role": 0.8
+            }
+        ]
+    },
+    {
+        "namaPenyakit": "maag",
+        "deskripsi": "Sakit maag disebabkan oleh luka terbuka yang terjadi di lapisan dalam lambung (tukak lambung), infeksi bakteri Helicobacter pylori, efek samping konsumsi obat anti inflamasi nonsteroid (OAINS) dan stres.",
+        "gejala": [
+            {
+                "gejala": "Cepat merasa kenyang saat makan dan rasa kenyang berkepanjangan setelah makan",
+                "role": 0.8
+            },
+            {
+                "gejala": "Mual",
+                "role": 0.4
+            },
+            {
+                "gejala": "Kembung pada perut bagian atas",
+                "role": 0.6
+            },
+            {
+                "gejala": "Sering bersendawa",
+                "role": 0.8
+            },
+            {
+                "gejala": "Nyeri pada ulu hati dan nyeri di tengah dada yang muncul ketika atau setelah makan",
+                "role": 1.0
+            },
+            {
+                "gejala": "Rasa panas pada perut bagian atas",
+                "role": 0.6
+            }
+        ]
+    }
+]

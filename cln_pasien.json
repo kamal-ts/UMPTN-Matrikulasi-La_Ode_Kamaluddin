@@ -1,0 +1,98 @@
+[
+    {
+        "idUser": "62e5f159f1aaa07e782c5ba3",
+        "namaPenyakit": "asam urat",
+        "hasilCF": 40,
+        "dataCF": [
+            {
+                "gejala": "Nyeri sendi saat bangun tidur",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Baru saja mengalami cedera atau pembedahan",
+                "CFUser": 0.4,
+                "ket": "sedikit yakin"
+            },
+            {
+                "gejala": "Rasa panas pada sendi",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Jempol Kaki terasa nyeri",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Persendian susah digerakkan",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            }
+        ]
+    },
+    {
+        "idUser": "62e5f159f1aaa07e782c5ba3",
+        "namaPenyakit": "asma",
+        "hasilCF": 60,
+        "dataCF": [
+            {
+                "gejala": "Sesak Napas",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "batuk berdahak",
+                "CFUser": 0.4,
+                "ket": "sedikit yakin"
+            },
+            {
+                "gejala": "napas berbunyi (mengi)",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Ada riwayat alergi",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Ada riwayat asma dalam keluarga",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            }
+        ]
+    },
+    {
+        "idUser": "62e5f183f1aaa07e782c5ba6",
+        "namaPenyakit": "asma",
+        "hasilCF": 95,
+        "dataCF": [
+            {
+                "gejala": "Sesak Napas",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "batuk berdahak",
+                "CFUser": 0.4,
+                "ket": "sedikit yakin"
+            },
+            {
+                "gejala": "napas berbunyi (mengi)",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Ada riwayat alergi",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            },
+            {
+                "gejala": "Ada riwayat asma dalam keluarga",
+                "CFUser": 0.8,
+                "ket": "yakin"
+            }
+        ]
+    }
+]

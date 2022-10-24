@@ -1,0 +1,799 @@
+[
+    {
+        "nama": "sayuran hijau",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "sayuran hijau",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "yogurt",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "yogurt",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "oatmeal",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "oatmeal",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "oatmeal",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "ikan",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "minyak ikan",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kacang lima",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gandum utuh",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gandum utuh",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gandum utuh",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kacang pistachio",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "pisang",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "pisang",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "pisang",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "pisang",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah berry",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "alpukat",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "alpukat",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "tomat",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "tomat",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "tomat",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jeruk",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "semangka",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "nanas",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "melon",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "melon",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "bayam",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "bayam",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "ikan laut",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "daging tanpa lemak",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "brokoli",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "brokoli",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "yogurt probiotik",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "ubi jalar",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jagung",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kacang-kacangan",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "nasi merah",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah beri",
+        "penyakit": "diabetes",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah beri",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "roti",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "biji rami ",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "lemon",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "wortel",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "wortel",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buncis",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kacang polong",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah ceri",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "telur",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "telur",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah kersen",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "lentil",
+        "penyakit": "asam urat",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jahe",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jahe",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "lidah buaya",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "daging",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "pepaya",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "apel",
+        "penyakit": "maag",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "apel",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "ubi ",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kale",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kunyit",
+        "penyakit": "asma",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kentang",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "cokelat hitam",
+        "penyakit": "hipertensi",
+        "status": "rekomendasi",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gula",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gula",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "garam",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gorengan",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "susu",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "acar",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "acar",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "saus tomat",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "saus tomat",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kafein",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kulit ayam",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "mie instan",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "sosis",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "roti",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "daging merah",
+        "penyakit": "hipertensi",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "nasi putih",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "yogurt rasa buah",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "madu",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah kering",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jus buah",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kentang goreng",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "saus salad",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kerupuk",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "daging berlemak",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "mentega",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "keju",
+        "penyakit": "diabetes",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "telur ikan ",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "lobster",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kepiting",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kerang",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "remis",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kaldu daging",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "anggur",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "anggur",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "tape ketan",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "bebek",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "ikan sarden",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "alpukat",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "jeroan",
+        "penyakit": "asam urat",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "cokelat",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kopi",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "soda",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "alkohol",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "buah citrus",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "tomat",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "bawang",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "makanan pedas",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "makanan tinggi lemak",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "makanan asam",
+        "penyakit": "maag",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kacang",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "kerang",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "makanan instan",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "udang",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "acar",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gorengan",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "bawang putih",
+        "penyakit": "asma",
+        "status": "larangan",
+        "deskripsi": "deskripsi"
+    },
+    {
+        "nama": "gandum",
+        "penyakit": "asma",
+        "status": "larangan"
+    },
+    {
+        "nama": "makanan 1",
+        "penyakit": "coba 1",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 1",
+        "penyakit": "coba 2",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 1",
+        "penyakit": "coba 4",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 2",
+        "penyakit": "coba 1",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 2",
+        "penyakit": "coba 2",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 3",
+        "penyakit": "coba 2",
+        "status": "larangan",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 3",
+        "penyakit": "coba 1",
+        "status": "larangan",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 4",
+        "penyakit": "coba 1",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 4",
+        "penyakit": "coba 2",
+        "status": "larangan",
+        "deskripsi": ""
+    },
+    {
+        "nama": "makanan 5",
+        "penyakit": "coba 2",
+        "status": "rekomendasi",
+        "deskripsi": ""
+    }
+]

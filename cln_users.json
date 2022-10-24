@@ -1,0 +1,34 @@
+[
+    {
+        "fullName": "Coba 1 dulu",
+        "dateBirth": "1980-08-12",
+        "noHP": "083121231",
+        "email": "coba1@gmail.com",
+        "userName": "coba1",
+        "password": "123"
+    },
+    {
+        "fullName": "Coba 2 dulu",
+        "dateBirth": "1980-08-12",
+        "noHP": "083121231",
+        "email": "coba4@gmail.com",
+        "userName": "coba2",
+        "password": "123"
+    },
+    {
+        "fullName": "Coba 3 dulu",
+        "dateBirth": "1980-08-12",
+        "noHP": "083121231",
+        "email": "coba3@gmail.com",
+        "userName": "coba3",
+        "password": "123"
+    },
+    {
+        "fullName": "Coba 4 dulu",
+        "dateBirth": "1980-08-12",
+        "noHP": "083121231",
+        "email": "coba4@gmail.com",
+        "userName": "coba4",
+        "password": "123"
+    }
+]
